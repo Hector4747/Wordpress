@@ -4,7 +4,7 @@
   
   Algunas de sus funciones principales incluyen:
 
-Restaurar el editor clásico de WordPress: Reemplaza el editor de bloques (Gutenberg) con el editor clásico de WordPress, permitiendo a los usuarios trabajar con la interfaz tradicional.
+Restaurar el editor clássic de WordPress: Reemplaza el editor de bloques (Gutenberg) con el editor clásico de WordPress, permitiendo a los usuarios trabajar con la interfaz tradicional.
 
 Compatibilidad con complementos antiguos: Algunos plugins y temas que dependen del editor clásico pueden no funcionar correctamente con Gutenberg. Este plugin ayuda a mantener la compatibilidad con esos complementos.
 
