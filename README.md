@@ -12,7 +12,19 @@ Mayor simplicidad y facilidad de uso: Para usuarios acostumbrados al editor clá
 
 Mejor rendimiento en algunos casos: Gutenberg puede consumir más recursos en comparación con el editor clásico, por lo que este plugin podría mejorar el rendimiento en sitios más antiguos o con servidores limitados. </p>
 
-<p> GTranslate </p>
+<p> GTranslate: El plugin GTranslate para WordPress permite traducir automáticamente tu sitio web a múltiples idiomas usando Google Translate. 
+  
+Sus principales funciones son:
+
+Traducción automática: Convierte el contenido de tu sitio en varios idiomas sin necesidad de traducción manual.
+
+Widget de idiomas: Agrega un selector de idioma con banderas o una lista desplegable para que los usuarios elijan su idioma.
+
+Versiones gratuita y de pago:
+
+La versión gratuita ofrece traducción automática sin optimización para SEO.
+La versión premium permite URL amigables para SEO, corrección manual de traducciones y almacenamiento en caché para mejor rendimiento.
+Mayor alcance global: Hace que tu sitio sea accesible para una audiencia internacional, aumentando el tráfico y la visibilidad. </p>
 
 
 <p> Ad inserter </p>
