@@ -1,6 +1,7 @@
 # Wordpress
 ## Plugins
-<p> Editorial Classic: El plugin Editorial Classic para WordPress está diseñado para restaurar la experiencia de edición clásica en WordPress. 
+## Editorial Classic 
+  <p> El plugin Editorial Classic para WordPress está diseñado para restaurar la experiencia de edición clásica en WordPress. 
   
   Algunas de sus funciones principales incluyen:
 
@@ -12,7 +13,8 @@ Mayor simplicidad y facilidad de uso: Para usuarios acostumbrados al editor clá
 
 Mejor rendimiento en algunos casos: Gutenberg puede consumir más recursos en comparación con el editor clásico, por lo que este plugin podría mejorar el rendimiento en sitios más antiguos o con servidores limitados. </p>
 
-<p> GTranslate: El plugin GTranslate para WordPress permite traducir automáticamente tu sitio web a múltiples idiomas usando Google Translate. 
+## GTranslate 
+  <p> El plugin GTranslate para WordPress permite traducir automáticamente tu sitio web a múltiples idiomas usando Google Translate. 
   
 Sus principales funciones son:
 
@@ -27,7 +29,8 @@ La versión premium permite URL amigables para SEO, corrección manual de traduc
 Mayor alcance global: Hace que tu sitio sea accesible para una audiencia internacional, aumentando el tráfico y la visibilidad. </p>
 
 
-<p> Ad inserter: El plugin Ad Inserter sirve para insertar anuncios automáticamente en WordPress. Es compatible con Google AdSense, Amazon Ads y banners personalizados. Te permite colocar anuncios en cualquier parte de tu sitio, configurar reglas avanzadas y evitar bloqueadores de anuncios. Tiene versión gratuita y premium. </p>
+ ## Ad inserter
+ <p> El plugin Ad Inserter sirve para insertar anuncios automáticamente en WordPress. Es compatible con Google AdSense, Amazon Ads y banners personalizados. Te permite colocar anuncios en cualquier parte de tu sitio, configurar reglas avanzadas y evitar bloqueadores de anuncios. Tiene versión gratuita y premium. </p>
 
 
 ## Entradas y Paginas
