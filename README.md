@@ -27,7 +27,7 @@ La versión premium permite URL amigables para SEO, corrección manual de traduc
 Mayor alcance global: Hace que tu sitio sea accesible para una audiencia internacional, aumentando el tráfico y la visibilidad. </p>
 
 
-<p> Ad inserter </p>
+<p> Ad inserter: El plugin Ad Inserter sirve para insertar anuncios automáticamente en WordPress. Es compatible con Google AdSense, Amazon Ads y banners personalizados. Te permite colocar anuncios en cualquier parte de tu sitio, configurar reglas avanzadas y evitar bloqueadores de anuncios. Tiene versión gratuita y premium. </p>
 
 
 ## Entradas y Paginas
