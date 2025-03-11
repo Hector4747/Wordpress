@@ -1,6 +1,7 @@
 # Wordpress
 ## Plugins
 <p> Editorial Classic: El plugin Editorial Classic para WordPress está diseñado para restaurar la experiencia de edición clásica en WordPress. 
+  
   Algunas de sus funciones principales incluyen:
 
 Restaurar el editor clásico de WordPress: Reemplaza el editor de bloques (Gutenberg) con el editor clásico de WordPress, permitiendo a los usuarios trabajar con la interfaz tradicional.
